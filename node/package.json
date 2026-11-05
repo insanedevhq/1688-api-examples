@@ -1,0 +1,6 @@
+{
+  "name": "1688-api-examples",
+  "private": true,
+  "type": "module",
+  "dependencies": { "apify-client": "^2.9.0" }
+}
